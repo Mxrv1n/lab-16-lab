@@ -1,3 +1,8 @@
+''''Name: lab16_mperez55.py
+Author: Marvin Perez
+Purpose: Read a csv file containing ohios unemployment 
+rates and plot the data using matplotlib.
+Date: 05/07/2026'''
 from pathlib import Path
 import csv
 from datetime import datetime
